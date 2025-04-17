@@ -1,41 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Facebook Login Page Clone 🔐💙
 
-## Getting Started
+This is a pixel-perfect clone of the Facebook login page built using React.  
+The layout includes the logo section, login form, password recovery, and account creation UI elements — all designed to closely resemble the original.
 
-First, run the development server:
+## 🛠 Technologies Used
+- React (with JSX)
+- CSS3 (custom styling)
+- JavaScript (ES6)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🎯 Features
+- Fully styled Facebook login form UI
+- Email/Phone & Password input fields
+- "Log In", "Forgot password?", and "Create new account" buttons
+- Responsive, centered layout using Flexbox
+- Clean UI with soft background, border radius, and shadow effects
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🖼 Screenshot
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![Facebook Clone Screenshot](./screenshot.png)
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🧪 How to Run
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm run dev` or `npm start`
+4. Visit `http://localhost:3000` in your browser
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## 📌 Status
+✅ Completed (Static UI only, no real authentication)  
+📅 Last updated: April 2025
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-# facebook-login-clone
+Made with 💻 by [Tsetsen](https://github.com/tsetse0725)
